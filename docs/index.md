@@ -11,7 +11,7 @@ Welcome to your Rock Robotic LiDAR!
 In the box:
 
 * 1 x Rock Robotic LiDAR
-* 1 x usb stick
+* 1 x USB stick
 * 1 x camera (optional)
 * 1 x Hard case
 * 1 x GNSS Antenna
@@ -25,7 +25,7 @@ Please follow our [Quickstart Guide](quickstart/first-setup.md) to start collect
 
 ### Collaboration
 
-This document can be edited on GitHub in markdown. If you find any mistakes, typos or  pieces that are not documented well enough simply open an issue or contribute by sending a pull request.
+This document can be edited on GitHub in markdown. If you find any mistakes, typos, or pieces which are not documented well enough, simply open an issue or contribute by sending a pull request.
 
 ### Discussion
 
